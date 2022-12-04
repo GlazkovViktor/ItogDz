@@ -23,4 +23,6 @@ void PrintArr(string[] arr)
     }
     
 }
+Find(arr, arr1);
+PrintArr(arr1);
 
